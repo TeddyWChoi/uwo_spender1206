@@ -680,12 +680,12 @@
 
 .tier_event_section-body .event_body_section-4 .rewards_list_container .list_header .first,.tier_event_section-body .event_body_section-4 .rewards_list_container .list_header .third
 {
-	flex-basis:28%
+	flex-basis:27.6%
 }
 
 .tier_event_section-body .event_body_section-4 .rewards_list_container .list_header .second
 {
-	flex-basis:43%
+	flex-basis:44.5%
 }
 
 .tier_event_section-body .event_body_section-4 .rewards_list_container .list_body
@@ -743,7 +743,7 @@
 .tier_event_section-body .event_body_section-4 .rewards_list_container .list_body .row_wrapper .first_column .first,.tier_event_section-body .event_body_section-4 .rewards_list_container .list_body .row_wrapper .first_column .third
 {
 	padding:2rem;
-	flex-basis:28.6%;
+	flex-basis:27.6%;
 	font-family:"Rubik",sans-serif;
 	font-size:1.4rem;
 	font-weight:500;
@@ -762,7 +762,7 @@
 .tier_event_section-body .event_body_section-4 .rewards_list_container .list_body .row_wrapper .first_column .second
 {
 	padding:.6rem;
-	flex-basis:42.5%;
+	flex-basis:44.5%;
 	font-family:"Rubik",sans-serif;
 	font-size:1.4rem;
 	font-weight:500;
